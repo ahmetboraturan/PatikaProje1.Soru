@@ -1,2 +1,2 @@
 # PatikaProje1.Soru
-PatikaProje 1.Soru Kod
+Patika Proje 1 ve 2. sorunun kodları
